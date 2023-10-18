@@ -25,4 +25,8 @@ public class DemoGitExampleOneApplication {
 		return a-b;
 	}
 
+        public Integer getMultiplication(int a, int b) {
+		return a*b;
+	}
+
 }
