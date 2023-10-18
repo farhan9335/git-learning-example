@@ -21,4 +21,8 @@ public class DemoGitExampleOneApplication {
 		return a+b;
 	}
 
+	public Integer getSubtract(int a, int b) {
+		return a-b;
+	}
+
 }
