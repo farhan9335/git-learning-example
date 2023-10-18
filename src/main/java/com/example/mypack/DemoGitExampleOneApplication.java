@@ -15,5 +15,10 @@ public class DemoGitExampleOneApplication {
 	public String getMessage() {
 		return "Hi This git example";
 	}
+	
+	
+	public Integer getAdd(int a, int b) {
+		return a+b;
+	}
 
 }
